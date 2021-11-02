@@ -1,14 +1,14 @@
-## 💜 Olá, meu nome é <strong>Kauê França!</strong>
+## 💜 Hello! I'm <strong>Kauê França!</strong>
 
-> Estudo programação para um dia conseguir ser um desenvolvedor full-stack.
+> I'm a self taught programmer that likes (a lot) node 😊.
 
-🔭 Atualmente estou fazendo um bot do whatsapp usando nodejs.
+🔭 Currently I own a Whatsapp bot called Katarina and I'm making a base for bots using Node.
 
-💬 Se quiser entrar em contato comigo: [whatsapp](https://wa.me/5514998166922).
+💬 [Contact me!](https://wa.me/5514998166922).
 
 ----
 
-## 🚀 Minhas Skills
+## 🚀 My Skills
 
 <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="c"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
@@ -20,5 +20,5 @@
 
 ----
 
-## ⭐ Informações sobre meu GitHub
+## ⭐ My GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kauefranca&show_icons=true)
