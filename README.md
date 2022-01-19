@@ -1,22 +1,31 @@
+
 ## 💜 Hello! I'm <strong>Kauê França!</strong>
 
-> I'm a self taught programmer that likes (a lot) node 😊.
+> I'm a self taught programmer that likes to node 😊.
 
-🔭 Currently I own a Whatsapp bot called Katarina and I'm making a base for bots using Node.
+🔭 Currently I own a Whatsapp bot called Katarina made wtih @adiwajshing/Baileys npm module.
 
-💬 [Contact me!](https://wa.me/5514998166922).
+## 🚀 Some of my Skills
+
+<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge">
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
+<img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white">
 
 ----
 
-## 🚀 My Skills
+## 📖 Education
+-  **CS50x**\
+📆 2021\
+📍 **Harvard**\
+‎‍💻 <a href="https://github.com/Kauefranca/FinalProject-CS50x2021">Final Project</a>
 
-<code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="c"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs"/></code>
-<code><img height="32" src="https://user-images.githubusercontent.com/57925294/136813143-43b6e8a6-0570-4899-bde5-7109b84e8122.png" alt="Linux"/></code>
-<code><img height="32" src="https://user-images.githubusercontent.com/57925294/136813206-a4599474-6aa7-4f7d-a17b-439623eaacfa.png" alt="git"/></code>
+----
 
-
+## 💬 Contact me!
+<a href="https://wa.me/5514998166922"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/kaue-fran%C3%A7a-b54417216"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
 ----
 
