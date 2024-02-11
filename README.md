@@ -1,31 +1,48 @@
 
-## 💜 Hello! I'm <strong>Kauê França!</strong>
+# 💜 Hello! I'm <strong>Kauê França!</strong>
 
-> I'm a self taught programmer that likes to node 😊.
+👨‍💻 I'm currently working on one side project - [Katarina](https://github.com/Katarina-bot)
 
-🔭 Currently I own a Whatsapp bot called Katarina made wtih @adiwajshing/Baileys npm module.
+📚 Also I'm becoming a Computer Scientist.
 
-## 🚀 Some of my Skills
+### Tech & Tools Preference 💻
 
-<a><img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"></a>
-<a><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
-<a><img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"></a>
-<a><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"></a>
-<a><img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"></a>
+<img src="https://img.shields.io/badge/Node%20js-339933?style=flat&logo=nodedotjs&logoColor=white">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
+<img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white">
+<img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
+<img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">
+<img src="https://img.shields.io/badge/Express%20js-000000?style=flat&logo=express&logoColor=white">
+<img src="https://img.shields.io/badge/dbeaver-382923?style=flat&logo=dbeaver&logoColor=white">
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white">
+<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white">
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white">
 
-----
+### Other Techs I know
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white">
+<img src="https://img.shields.io/badge/Puppeteer-40B5A4?style=flat&logo=Puppeteer&logoColor=white">
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white">
+<img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white">
+
+---
 
 ## 📖 Education
 -  **CS50x**\
 📆 2021\
 📍 **Harvard**\
-‎‍💻 <a href="https://github.com/Kauefranca/FinalProject-CS50x2021">Final Project</a>
+‍💻 <a href="https://github.com/Kauefranca/FinalProject-CS50x2021">Final Project</a>
+-  **Bachelor's degree, Computer Science**\
+📆 2023 - 2026\
+📍 [UNIMAR](https://unimar.br/)
+
 
 ----
 
 ## 💬 Contact me!
-<a href="https://wa.me/5514998166922"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/kaue-fran%C3%A7a-b54417216"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://wa.me/5514998166922"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/kaue-fran%C3%A7a-b54417216"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"></a>
 
 ----
 
